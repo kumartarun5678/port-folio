@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1e01804.css",
+    "main.js": "/static/js/main.4def3798.js",
+    "static/js/511.00425fcd.chunk.js": "/static/js/511.00425fcd.chunk.js",
+    "static/media/NW.jpg": "/static/media/NW.d3d9136d2563dba9b972.jpg",
+    "static/media/DS.jpg": "/static/media/DS.21efe7c8bb066cc0ed82.jpg",
+    "static/media/OS.png": "/static/media/OS.4ca51cb1e384d780a7df.png",
+    "static/media/AWS.jpg": "/static/media/AWS.1a77ac38946a8c17a173.jpg",
+    "static/media/EC.jpg": "/static/media/EC.5741fa86af49c4ddbe69.jpg",
+    "static/media/VT.jpg": "/static/media/VT.f0e4d27e00518789f58f.jpg",
+    "static/media/TX.jpg": "/static/media/TX.9daaa7ed00f7956b1676.jpg",
+    "static/media/SW.jpg": "/static/media/SW.f13ad3903df0828a4f92.jpg",
+    "static/media/CT.jpg": "/static/media/CT.6e4fc11c0f1bc502e300.jpg",
+    "static/media/DA.jpg": "/static/media/DA.66b8304c4d90828cc8d4.jpg",
+    "static/media/profile.jpg": "/static/media/profile.a76681e7b80bb383bcd8.jpg",
+    "static/media/AI.jpg": "/static/media/AI.652321750b205f67328d.jpg",
+    "static/media/DSs.jpg": "/static/media/DSs.d77de4743223baca2a8e.jpg",
+    "static/media/Tarun_resume.pdf": "/static/media/Tarun_resume.d7ab69ef153ce1754c74.pdf",
+    "index.html": "/index.html",
+    "main.e1e01804.css.map": "/static/css/main.e1e01804.css.map",
+    "main.4def3798.js.map": "/static/js/main.4def3798.js.map",
+    "511.00425fcd.chunk.js.map": "/static/js/511.00425fcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e01804.css",
+    "static/js/main.4def3798.js"
+  ]
+}
