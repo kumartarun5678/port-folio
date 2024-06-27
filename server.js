@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use(express.static(path.join(__dirname, "./client/build")));
 
-app.use("/api/v1/portfolio", require("./routes/portfolioRoute"));
+app.use("/api/v1/portfolio", require("./Routes/routes"));
 
 app.get("*", function (req, res) {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
